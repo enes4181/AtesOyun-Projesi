@@ -21,7 +21,7 @@ public class Oyun extends JPanel implements KeyListener, ActionListener {
 
     private int gecen_sure = 0;
     private int harcanan_ates = 0;
-
+    
     private BufferedImage image;
     private ArrayList<Ates> atesler = new ArrayList<Ates>();
 
